@@ -1,0 +1,40 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    background-color: #0a0f13;
+    background-image: url("/img/logo/logo_gray.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: scroll;
+    background-size: 1100px;
+    color: rgb(109, 109, 109);
+}
+
+
+h1 {
+    width: 100%;
+    text-transform: uppercase;
+    border-bottom: 4px solid #68b7e8;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+form {
+    margin: 10em 0;
+    background-color: #68b7e852;
+    width: 200px;
+    padding: 80px;
+    box-shadow:  2px 2px 50px #444;
+    background-attachment: scroll;
+
+}
+
+.login {
+    margin: 10px;
+    padding: 5px;
+}
+
+input {
+    margin-top: 10px;
+    height: 20px;
+}

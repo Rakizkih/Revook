@@ -108,6 +108,7 @@ input:focus {
 .col_4 a {
     color: #141010;
     padding: 0 1rem 0 1rem;
+
 }
 
 .col_4 img {
@@ -163,6 +164,7 @@ input:focus {
     margin: 2rem;
     box-shadow: 0px 0px 50px 0px rgb(68, 68, 68);
     text-decoration: none;
+    text-align: center;
 
 }
 

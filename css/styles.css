@@ -108,7 +108,7 @@ input:focus {
 .col_4 a {
     color: #141010;
     padding: 0 1rem 0 1rem;
-
+    text-decoration: none;
 }
 
 .col_4 img {

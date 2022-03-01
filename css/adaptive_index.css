@@ -1,0 +1,161 @@
+@media only screen and (max-width: 1010px) {
+    .logo_text {
+        font-size: 20px;
+    }
+    
+    .col_text {
+        font-size: 14px;
+    }
+
+    .col_3 {
+        width: 200px;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 750px) {
+    .col_1 {
+        width: 80px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .logo_text {
+        font-size: 17px;
+    }
+    
+    .col_text {
+        font-size: 10px;
+    }
+
+    .col_3 {
+        width: 170px;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .col_4 {
+        width: 200px;
+        text-align: center;
+        margin: auto 0;
+    }
+    
+    .col_4 img {
+        width: 22px;
+    }
+}
+
+
+
+@media only screen and (max-width: 650px) {
+    .col_1 {
+        width: 70px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .logo_text {
+        font-size: 17px;
+    }
+    
+    .col_text {
+        font-size: 10px;
+    }
+
+    .col_3 {
+        width: 140px;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .col_4 {
+        width: 210px;
+        text-align: center;
+        margin: auto 0;
+    }
+
+    .col_4 a {
+        color: #141010;
+        padding: 0 0.5rem 0 0.5rem;
+    }
+    
+    .col_4 img {
+        width: 20px;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    .col_1 {
+        width: 50px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .logo_text {
+        font-size: 14px;
+    }
+    
+    .col_text {
+        font-size: 8px;
+    }
+
+    .col_3 {
+        width: 110px;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .col_4 {
+        width: 200px;
+        text-align: center;
+        margin: auto 0;
+    }
+    
+    .col_4 img {
+        width: 20px;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .col_1 {
+        width: 50px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .logo_text {
+        font-size: 17px;
+    }
+    
+    .col_text {
+        font-size: 10px;
+    }
+
+    .col_3 {
+        width: 140px;
+        font-size: 30px;
+        text-align: center;
+        margin: auto;
+        padding: 0 0 0.8rem;
+    }
+
+    .col_4 {
+        width: 210px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .col_4 a {
+        color: #141010;
+        padding: 0 0.5rem 0 0.5rem;
+    }
+    
+    .col_4 img {
+        width: 20px;
+    }
+}
